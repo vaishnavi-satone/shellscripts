@@ -5,3 +5,6 @@ echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "Hello batch-19, We are learning Develops"
 echo "This is Vaishnavi's Repo"
+Hello
+Hi
+How are you?
